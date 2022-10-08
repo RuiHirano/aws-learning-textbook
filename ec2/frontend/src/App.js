@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is {process.env.REACT_APP_SERVER} server.
+          This is {process.env.REACT_APP_SERVER} App.
         </p>
       </header>
     </div>
